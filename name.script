@@ -1,0 +1,20 @@
+Script started on 2022-01-26 10:25:15-07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;kas@pop-os: ~/CSE 113/labs/lab0[01;32mkas@pop-os[00m:[01;34m~/CSE 113/labs/lab0[00m$ gcc -g -Wall name.c -o name
+[?2004l[?2004h]0;kas@pop-os: ~/CSE 113/labs/lab0[01;32mkas@pop-os[00m:[01;34m~/CSE 113/labs/lab0[00m$ na[K[K./name 
+[?2004lK      K                      
+K     K                       
+K    K                        
+K   K                         
+K  K                          
+K K                           
+KK           aaaaa      ssssss
+K K         a     a     s     
+K  K        a     a     s     
+K   K       a     a     ssssss
+K    K      a     a          s
+K     K     a     a          s
+K      K     aaaaa a    ssssss
+[?2004h]0;kas@pop-os: ~/CSE 113/labs/lab0[01;32mkas@pop-os[00m:[01;34m~/CSE 113/labs/lab0[00m$ ei[Kxit
+[?2004lexit
+
+Script done on 2022-01-26 10:26:00-07:00 [COMMAND_EXIT_CODE="0"]
